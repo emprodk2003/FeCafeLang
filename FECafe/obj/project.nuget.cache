@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "UIcghIIqJ8M=",
+  "dgSpecHash": "tCOmsHeFauE=",
   "success": true,
-  "projectFilePath": "D:\\LuanVanTotNghiep\\FECafe\\FECafe\\FECafe.csproj",
+  "projectFilePath": "E:\\Fe\\FeCafeLang\\FECafe\\FECafe.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DUY\\.nuget\\packages\\materialdesigncolors\\2.0.5\\materialdesigncolors.2.0.5.nupkg.sha512",
-    "C:\\Users\\DUY\\.nuget\\packages\\materialdesignthemes\\4.4.0\\materialdesignthemes.4.4.0.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesigncolors\\2.0.5\\materialdesigncolors.2.0.5.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\materialdesignthemes\\4.4.0\\materialdesignthemes.4.4.0.nupkg.sha512"
   ],
   "logs": []
 }

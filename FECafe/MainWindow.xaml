@@ -36,7 +36,7 @@
                     <StackPanel Margin="10" HorizontalAlignment="Center">
                         <Button Width="100" Height="40"  Style="{StaticResource MaterialDesignFloatingActionButton}"
                          materialDesign:ButtonAssist.CornerRadius="10" BorderThickness="2" BorderBrush="#D94448"
-                         Background="#D94448" Foreground="White" ToolTip="Login" Content="Login">
+                         Background="#D94448" Foreground="White" ToolTip="Login" Content="Login" Click="Button_Click">
                         </Button>
                     </StackPanel>
                 </StackPanel>

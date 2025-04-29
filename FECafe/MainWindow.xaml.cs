@@ -22,13 +22,19 @@ namespace FECafe
         }
         private void Border_MouseDown(object sender, MouseButtonEventArgs e)
         {
-            // Khi người dùng giữ chuột xuống background => cho phép di chuyển cửa sổ
+            //kiem tra co phai nhan nut chuot bang chuot trai hay khong???
             if (e.ChangedButton == MouseButton.Left)
                 this.DragMove();
         }
         private void btnExit_Click(object sender, RoutedEventArgs e)
         {
+            Application.Current.Shutdown();
+        }
 
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Dashboard.Dashboard dashboard = new Dashboard.Dashboard();//Mo cua so Dashboard
+            dashboard.Show();
         }
     }
 }
