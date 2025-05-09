@@ -9,20 +9,29 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Images\hinh-anh-ly-cafe-den-da-dep-5.jpg" />
     <None Remove="Images\ICON4801.png" />
     <None Remove="Images\Langcafe.PNG" />
+    <None Remove="Images\tradao.jpg" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
     <PackageReference Include="MahApps.Metro.IconPacks.Material" Version="4.11.0" />
     <PackageReference Include="MaterialDesignThemes" Version="4.4.0" />
   </ItemGroup>
 
   <ItemGroup>
+    <Resource Include="Images\hinh-anh-ly-cafe-den-da-dep-5.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
     <Resource Include="Images\ICON4801.png">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
     <Resource Include="Images\Langcafe.PNG">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\tradao.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
   </ItemGroup>

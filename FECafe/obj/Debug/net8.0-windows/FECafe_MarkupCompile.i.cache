@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\Fe\FeCafeLang\FECafe\obj\Debug\net8.0-windows\
+D:\FeCafeLang\FECafe\obj\Debug\net8.0-windows\
 FECafe
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-E:\Fe\FeCafeLang\FECafe\App.xaml
-2-387760496
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\FeCafeLang\FECafe\App.xaml
+4297960927
 
-72073449347
-202130611463
-Dashboard\Dashboard.xaml;MainWindow.xaml;
+9-1832283480
+204-1861100987
+Dashboard\Dashboards.xaml;Dashboard\DashboardUser.xaml;Dashboard\MenuAndOrder.xaml;MainWindow.xaml;
 
-True
+False
 

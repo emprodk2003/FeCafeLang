@@ -33,7 +33,7 @@ namespace FECafe
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Dashboard.Dashboard dashboard = new Dashboard.Dashboard();//Mo cua so Dashboard
+            Dashboard.MenuAndOrder dashboard = new Dashboard.MenuAndOrder();//Mo cua so Dashboard
             dashboard.Show();
         }
     }
